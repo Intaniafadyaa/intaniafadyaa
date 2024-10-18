@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello, I’m Intania Fadya Safitri.<br><br>I’m an undergraduate student majoring in Information Systems at Telkom<br>University. I am enthusiastic about combining my knowledge<br>of information technology with business development.
+Hello, I’m Intania Fadya Safitri.<br><br>I am a fresh graduate with a degree in Information Systems from Telkom University. Throughout my studies, I specialized in IT governance, IT audit and risk management, enterprise architecture, and business process analysis. I also gained hands-on experience in management systems, focusing on the implementation of ISO 9001 (Quality Management System) and ISO 37001 (Anti-Bribery Management System).
+
+I am highly motivated to continue learning and eager to apply my skills in a dynamic, fast-paced work environment. I am open to exploring new opportunities where I can contribute to innovative IT projects.
 
 
 ## 🌐 Socials:
